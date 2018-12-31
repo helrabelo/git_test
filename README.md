@@ -1,0 +1,1 @@
+This is Hels first git project
